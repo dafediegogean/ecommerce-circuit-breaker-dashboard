@@ -1,7 +1,6 @@
 # E-commerce Circuit Breaker Dashboard
 
-An microservice with Java 11, Spring Cloud Hoxton SR4, Netflix Hystrix, Netflix Turbine, 
-Eureka Client and Spring Cloud Config Client, JUnit 5
+An microservice with Java 11, Spring Cloud Hoxton SR4, Netflix Hystrix, Netflix Turbine, Eureka Client and Spring Cloud Config Client, JUnit 5 for unit testing
 
 ## Reference Documentation
 
